@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">RailMake</string>
+    <string name="app_name">ごまたろう</string>
+
+    <string name="main_button_draw">描く</string>
+    <string name="main_button_test">テスト</string>
+    <string name="main_button_option">オプション</string>
 </resources>
