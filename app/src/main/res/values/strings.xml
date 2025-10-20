@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">ごまたろう</string>
 
+    <!-- メイン画面 -->
     <string name="main_button_draw">描く</string>
     <string name="main_button_test">テスト</string>
     <string name="main_button_option">オプション</string>
+
+    <!-- 手書き画面 -->
+    <string name="draw_label_color_select">線の色を選んでくださいよぉ</string>
 </resources>
